@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: 24f2007963/docker-img:24f2007963
+          tags: 24f2007963/mydocker-img:24f2007963
